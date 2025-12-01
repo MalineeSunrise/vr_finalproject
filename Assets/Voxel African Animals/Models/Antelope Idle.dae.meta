@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 61dcf8368a8658a4582780870d270f97
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BL_Leg2...uadruped-Material
+    second: {fileID: 2100000, guid: c097f79d89cbd2a4d955e29c0af8012e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BL_Leg_...uadruped-Material
+    second: {fileID: 2100000, guid: 9e2b046d261efdb4e89bbe54785747fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BL_Thig...uadruped-Material
+    second: {fileID: 2100000, guid: fedaa54845fbd734082e937ce5d66f57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BR_Leg2...uadruped-Material
+    second: {fileID: 2100000, guid: 918fadfaed5e4f14d98a6a1a24246217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BR_Leg_...uadruped-Material
+    second: {fileID: 2100000, guid: 0a9f740958efade4aa48b07b8ef83a14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BR_Thig...uadruped-Material
+    second: {fileID: 2100000, guid: a7d4d80e7f782d74f898e6ca90a6405e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chest_Large_Quadruped-Material
+    second: {fileID: 2100000, guid: 0460e3747874f3948a3021bb34458531, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FL_Leg2...uadruped-Material
+    second: {fileID: 2100000, guid: fd100177b18afc243be1079cb37ea64c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FL_Leg_...uadruped-Material
+    second: {fileID: 2100000, guid: af48351024dcb5443b39e1e33187f964, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FL_Thig...uadruped-Material
+    second: {fileID: 2100000, guid: 71c582a102bacc941b62af3bd493b269, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FR_Leg2...uadruped-Material
+    second: {fileID: 2100000, guid: 4756cff7e191e2e4ca5c458b80e4de52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FR_Leg_...uadruped-Material
+    second: {fileID: 2100000, guid: 9b521e2130284de4baeeed0b7532de18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FR_Thig...uadruped-Material
+    second: {fileID: 2100000, guid: 2cd1d72c80a164d4682fd430da26f5e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head_Large_Quadruped-Material
+    second: {fileID: 2100000, guid: f249a18390283cf419fd37e50c7601a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hip_Large_Quadruped-Material
+    second: {fileID: 2100000, guid: 4e4b3c395cba3fa4c8821e1cc8b2a833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horn_Large_Quadruped-Material
+    second: {fileID: 2100000, guid: 6e60fd970d033e847a5cb6531d740e4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_Ear_Large_Quadruped-Material
+    second: {fileID: 2100000, guid: 276e94b6b51aea343820597d70f1435e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mouth_Large_Quadruped-Material
+    second: {fileID: 2100000, guid: b872418c6c186354097bf4e29225825e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Neck_Large_Quadruped-Material
+    second: {fileID: 2100000, guid: c9bda2d5ea80f1b46ba0ac2eeb007d8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nose_Large_Quadruped-Material
+    second: {fileID: 2100000, guid: 3de8f40c4faa1c246a2ea220e9977d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R_Ear_Large_Quadruped-Material
+    second: {fileID: 2100000, guid: debb817ca09d4de4e9b4991ccb32f28d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail_2-Material
+    second: {fileID: 2100000, guid: 392ab91c63aaf4947b72f6c0f537a8f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail_Large_Quadruped-Material
+    second: {fileID: 2100000, guid: 41a0a58a1caf5de40855383e4f978656, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 1
+    preserveHierarchy: 1
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.03
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

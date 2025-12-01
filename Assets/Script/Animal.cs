@@ -2,10 +2,9 @@ using UnityEngine;
 
 public class Animal : MonoBehaviour
 {
+    public float MaxHunger = 100;
 
-    protected float MaxHunger = 100;
-
-    protected float CurrentHunger = 50;
+    public float CurrentHunger = 50;
 
     public void addHunger(int hunger)
     {

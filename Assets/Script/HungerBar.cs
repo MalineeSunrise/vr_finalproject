@@ -4,7 +4,7 @@ using UnityEngine.UI;
 public class HungerBar : MonoBehaviour
 {
     public Animal hunger;
-    public Image hungerFill;
+    public Slider hungerFill;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -15,6 +15,6 @@ public class HungerBar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        hungerFill.fillAmount = hunger.CurrentHunger / hunger.MaxHunger;
+        hungerFill.value = hunger.CurrentHunger / hunger.MaxHunger;
     }
 }

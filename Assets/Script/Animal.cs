@@ -6,7 +6,7 @@ public class Animal : MonoBehaviour
 
     public float CurrentHunger = 50;
 
-    public void addHunger(int hunger)
+    public void addHunger(float hunger)
     {
         CurrentHunger += hunger;
     }

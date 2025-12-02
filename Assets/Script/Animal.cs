@@ -11,6 +11,13 @@ public class Animal : MonoBehaviour
         CurrentHunger += hunger;
     }
 
+    public Animator animator;
+    public void PlayEatAnimation()
+    {
+        animator.SetTrigger("Zebra Eat"); 
+    }
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {

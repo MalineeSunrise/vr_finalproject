@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Animal : MonoBehaviour
 {
+    public Animator playerAnimator;
     public float MaxHunger = 100;
 
     public float CurrentHunger = 50;
@@ -16,6 +17,17 @@ public class Animal : MonoBehaviour
     {
         animator.SetTrigger("Zebra Eat"); 
     }
+
+    private const string EAT_TRIGGER_NAME = "Eat";
+    public void TriggerEatingAnimation()
+    {
+        if (playerAnimator != null)
+        {
+            // ??????????? Animator ??????????????? "Eat" ???
+            playerAnimator.SetTrigger(EAT_TRIGGER_NAME);
+        }
+    }
+
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created

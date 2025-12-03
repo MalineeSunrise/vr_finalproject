@@ -9,6 +9,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: lambert13
     second: {fileID: -8067726398312463513, guid: 5f68373b60fdac2479e04dd825e9e168, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texturelabs_Wood_185S
+    second: {fileID: 2800000, guid: da808829e1c4f9447bf0869c386095df, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

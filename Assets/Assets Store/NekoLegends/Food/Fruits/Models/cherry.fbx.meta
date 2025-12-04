@@ -10,7 +10,12 @@ AssetOrigin:
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NL_cherry
+    second: {fileID: 2100000, guid: cafd94f0cbd333f41810bb3082c41642, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

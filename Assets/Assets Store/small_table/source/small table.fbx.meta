@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Texturelabs_Wood_185S
-    second: {fileID: 2800000, guid: da808829e1c4f9447bf0869c386095df, type: 3}
+    second: {fileID: 2800000, guid: 4838f2568138bbe4c868453132469e11, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
